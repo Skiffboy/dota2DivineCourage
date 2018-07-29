@@ -1,6 +1,7 @@
 # Dota 2 Divine Courage
 
-A program to select a random hero and generate a random build for said hero. There are no guarantees that the builds are serviceable.
+>You ever get bored winning games over and over again and feel the need to lose over and over again? Then this Divine Courage program is the thing you need to spice up your DotA life!
+-[u/_NightKnight](https://www.reddit.com/user/_NightKnight)
 
 ## Prerequisites
 
