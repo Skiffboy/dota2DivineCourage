@@ -4,7 +4,6 @@ package dotaheropickerupdated;
 
 //<editor-fold defaultstate="collapsed" desc="IMPORTS">
 import java.awt.*;
-import static java.awt.Transparency.TRANSLUCENT;
 import java.awt.event.*;
 import java.util.ArrayList;
 import java.util.Arrays;
