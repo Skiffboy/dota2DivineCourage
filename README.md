@@ -3,6 +3,8 @@
 >You ever get bored winning games over and over again and feel the need to lose over and over again? Then this Divine Courage program is the thing you need to spice up your DotA life!
 -[u/_NightKnight](https://www.reddit.com/user/_NightKnight)
 
+Generates a random hero from the ones selected and then generates a random build for said hero. 
+
 ## Prerequisites
 
 Make sure Java is installed.
