@@ -20,8 +20,4 @@ Download and unzip the entire repo. Make sure that the .jar file and the folder 
 
 ## Author
 
- **Mika Nelson** - [Skiffboy](https://github.com/Skiffboy)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+ **Mika Nelson** 
