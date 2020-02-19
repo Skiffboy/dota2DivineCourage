@@ -21,3 +21,6 @@ Download and unzip the entire repo. Make sure that the .jar file and the folder 
 ## Author
 
  **Mika Nelson** 
+
+###TODO:
+Completely rewrite
